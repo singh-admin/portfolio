@@ -1,0 +1,27 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    background-color: #EEFCFD
+  }
+  
+  .home-subtitle {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+  }
+
+  .home h1 {
+    font-size: 3rem; /* Adjust font size as needed */
+    margin-bottom: 1rem;
+    color: #0D9488 /* Adjust color as needed */
+  }
+
+  .home-subtitle-2 {
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: -0.5rem;
+  }
+  

@@ -1,0 +1,43 @@
+.about {
+  background-color: #f9f9f9;
+  padding: 4rem 2rem;
+}
+
+.about h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  color: #0D9488;
+}
+
+.about-content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  margin: 2rem 0;
+  background-color: #EEFCFD
+}
+
+.section p {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.section-box {
+  background-color: #f5f5f5; /* Light background color */
+  border: 1px solid #ddd; /* Add a border */
+  padding: 1rem; /* Add some padding inside the box */
+  margin: 1rem; /* Add some margin between boxes */
+  border-radius: 4px; /* Add rounded corners */
+  width: calc(33% - 2rem); /* Set width to fit 3 sections per row with margins */
+  flex: 1;
+}
+
+.profile-image {
+  width: 150px; /* Adjust width as needed */
+  height: 150px; /* Adjust height as needed */
+  border-radius: 50%; /* Make image circular */
+  margin-right: 2rem; /* Add margin to the right of image */
+}
+  
